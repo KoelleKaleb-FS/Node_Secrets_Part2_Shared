@@ -26,4 +26,5 @@ The application uses a `secrets.json` file to manage sensitive information like 
    git clone git@github.com:KoelleKaleb-FS/Node_Secrets_Part2_Shared.git
    cd Node_Secrets_Assignment
    git checkout part-2
+   npm install
    ```
