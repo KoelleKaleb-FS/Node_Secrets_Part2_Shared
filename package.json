@@ -1,0 +1,23 @@
+{
+  "name": "node_secrets_part2_shared",
+  "version": "1.0.0",
+  "description": "This is the second part of a project demonstrating different approaches to managing secrets in a Node.js application. In this part, the application reads secrets from a shared `secrets.json` file. While this separates secrets from the codebase, it still has security risks.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoelleKaleb-FS/Node_Secrets_Part2_Shared.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoelleKaleb-FS/Node_Secrets_Part2_Shared/issues"
+  },
+  "homepage": "https://github.com/KoelleKaleb-FS/Node_Secrets_Part2_Shared#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
